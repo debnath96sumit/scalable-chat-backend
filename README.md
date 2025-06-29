@@ -1,2 +1,2 @@
 # scalable-chat-backend
-Scalable backend of a chat application
+Backend of a scalable chat application
